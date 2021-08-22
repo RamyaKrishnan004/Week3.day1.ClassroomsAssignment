@@ -11,7 +11,7 @@ public class StudentInfo {
 			
 		}
 		public void getStudentInfo(String email,long phoneNumber) {
-			System.out.println("Studen Email : "+email);
+			System.out.println("Student Email : "+email);
 			System.out.println("Student phone number : "+phoneNumber);
 		}
 
